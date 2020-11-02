@@ -1,6 +1,7 @@
 1187588
-#gelati
+#gelati/
 bananaSplit.md
 coppaNafta.md
+#budini/
 
 Gelateria Padovana
